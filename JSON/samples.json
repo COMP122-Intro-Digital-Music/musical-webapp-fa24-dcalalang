@@ -1,1 +1,19 @@
-[]
+[[
+  {
+    "name": "scream",
+    "file": "samples/scream.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+{
+    "name": "weeoo",
+    "file": "samples/weeoo.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "you got this",
+    "file": "samples/you_got_this.mp3",
+    "bpm": "120",
+    "loop": "1m"
+  }

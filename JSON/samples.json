@@ -1,4 +1,4 @@
-[[
+[
   {
     "name": "scream",
     "file": "samples/scream.mp3",
@@ -17,3 +17,4 @@
     "bpm": "120",
     "loop": "1m"
   }
+]

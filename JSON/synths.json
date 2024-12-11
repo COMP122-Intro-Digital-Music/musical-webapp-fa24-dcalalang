@@ -1,1 +1,55 @@
-[ ]
+[ {
+    "name": "rah",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "3",
+      "portamento": "0.2",
+      "envelope": {
+        "attack": "1",
+        "attackCurve": "linear",
+        "decay": "0.22",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "0",
+        "partials": [],
+        "phase": 0,
+        "type": "square"
+      }
+    }
+  },
+  {
+    "name": "wah",
+    "type": "Synth",
+    "settings": {
+      "volume": "0",
+      "detune": "3",
+      "portamento": "2",
+      "envelope": {
+        "attack": "1",
+        "attackCurve": "exponential",
+        "decay": "0.1",
+        "decayCurve": "exponential",
+        "release": "1",
+        "releaseCurve": "exponential",
+        "sustain": "0.3"
+      },
+      "oscillator": {
+        "partialCount": "4",
+        "partials": [
+          "0.73",
+          "0.55",
+          "0.84",
+          "0.67"
+        ],
+        "phase": 0,
+        "type": "fatcustom",
+        "count": "3",
+        "spread": "20"
+      }
+    }
+  } ]
